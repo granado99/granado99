@@ -2,7 +2,7 @@
 
  Formado em Engenharia de Produção com ênfase em Software pela Universidade Estadual de Maringá (UEM).
 
-Atualmente, desempenho a função de Analista de políticas de crédito em uma instituição financeira, onde emprego minhas habilidades em SQL para manipular dados e analisar dados.
+Atualmente, desempenho a função de Analista de políticas de crédito em uma instituição financeira, onde emprego minhas habilidades em SQL para manipular e analisar dados.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
