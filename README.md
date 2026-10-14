@@ -2,8 +2,7 @@
 
  Formado em Engenharia de Produção com ênfase em Software pela Universidade Estadual de Maringá (UEM).
 
-Atualmente, desempenho a função de Analista de Dados em uma instituição financeira, onde emprego minhas habilidades em SQL, Python e suas bibliotecas para manipular dados, enquanto utilizo o Power BI para demonstrar de forma visual as informações de maneira intuitiva e acessível.
- 
+Atualmente, desempenho a função de Analista de políticas de crédito em uma instituição financeira, onde emprego minhas habilidades em SQL para manipular dados e analisar dados.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
